@@ -2,7 +2,6 @@
 - 👀 I’m interested in c++ language 
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on developing my machine language 
-- 📫 How to reach me mahmoudzuriqi8@gmail.com
 
 <!---
 mahmoud661/mahmoud661 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
