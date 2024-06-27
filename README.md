@@ -26,8 +26,8 @@ I have undergone training with multiple companies, working on a wide range of pr
 
 Here are a few projects I'm proud of:
 
-- **[Eon](#https://github.com/mahmoud661/ProjectEon-5.3)**: A captivating 2D game developed using Unreal.
-- **[Conversa](#https://github.com/mahmoud661/Conversa)**: A responsive web application built with the MERN Stack.
+- **[Eon](https://github.com/mahmoud661/ProjectEon-5.3)**: A captivating 2D game developed using Unreal.
+- **[Conversa](https://github.com/mahmoud661/Conversa)**: A responsive web application built with the MERN Stack.
 
 Feel free to explore my repositories to see more of my work!
 
