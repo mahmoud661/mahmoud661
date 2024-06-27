@@ -16,7 +16,7 @@ I'm passionate about Artificial Intelligence, Natural Language Processing, and G
 - **Programming Languages**: JavaScript, Python, C++
 - **Web Development**: MongoDB, Express.js, React, Node.js (MERN Stack)
 - **AI & NLP**: Machine Learning, Deep Learning, Natural Language Processing
-- **Game Development**: Unity, Unreal Engine
+- **Game Development**: Unreal Engine
 
 ## Experience
 
@@ -26,19 +26,18 @@ I have undergone training with multiple companies, working on a wide range of pr
 
 Here are a few projects I'm proud of:
 
-- **[AI Chatbot](#)**: An intelligent chatbot using NLP techniques.
-- **[Game Title](#)**: A captivating game developed using Unity.
-- **[Web App](#)**: A responsive web application built with the MERN Stack.
+- **[Eon](#https://github.com/mahmoud661/ProjectEon-5.3)**: A captivating 2D game developed using Unreal.
+- **[Conversa](#https://github.com/mahmoud661/Conversa)**: A responsive web application built with the MERN Stack.
 
 Feel free to explore my repositories to see more of my work!
 
-## Connect with Me
-
-- **Website**: [mahmoudzuriqi.site](https://mahmoudzuriqi.site)
-- **LinkedIn**: [Mahmoud Zuriqi](https://www.linkedin.com/in/mahmoud-zuriqi-228aa7248/)
-- **Kaggle**: [Mahmoud Ooo](https://www.kaggle.com/mahmoudooo)
-- **Instagram**: [@_doo0o](https://www.instagram.com/_doo0o/)
-- **LeetCode**: [mahmoud661](https://www.leetcode.com/mahmoud661)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-zuriqi-228aa7248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-zuriqi-228aa7248/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/mahmoudooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mahmoudooo" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_doo0o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_doo0o/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mahmoud661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoud661" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
