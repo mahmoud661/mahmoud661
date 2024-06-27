@@ -32,13 +32,13 @@ Here are a few projects I'm proud of:
 
 Feel free to explore my repositories to see more of my work!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-zuriqi-228aa7248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-zuriqi-228aa7248/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mahmoudooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mahmoudooo" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_doo0o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_doo0o/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahmoud661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoud661" height="30" width="40" /></a>
-</p>
+## Connect with Me
+
+- **Website**: [mahmoudzuriqi.site](https://mahmoudzuriqi.site)
+- **LinkedIn**: [Mahmoud Zuriqi](https://www.linkedin.com/in/mahmoud-zuriqi-228aa7248/)
+- **Kaggle**: [Mahmoud Ooo](https://www.kaggle.com/mahmoudooo)
+- **Instagram**: [@_doo0o](https://www.instagram.com/_doo0o/)
+- **LeetCode**: [mahmoud661](https://www.leetcode.com/mahmoud661)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
